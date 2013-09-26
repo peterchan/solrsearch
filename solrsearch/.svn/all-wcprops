@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/solrsearch/!svn/ver/16
+END
+package.bat
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/solrsearch/!svn/ver/1/package.bat
+END
+package.sh
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/solrsearch/!svn/ver/1/package.sh
+END
+diff
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/solrsearch/!svn/ver/1/diff
+END
+eclipse.bat
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/solrsearch/!svn/ver/1/eclipse.bat
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/solrsearch/!svn/ver/10/pom.xml
+END
+eclipse.sh
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/solrsearch/!svn/ver/1/eclipse.sh
+END

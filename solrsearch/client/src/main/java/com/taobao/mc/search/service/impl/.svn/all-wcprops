@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/solrsearch/!svn/ver/1/client/src/main/java/com/taobao/mc/search/service/impl
+END
+ServerManage.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/solrsearch/!svn/ver/1/client/src/main/java/com/taobao/mc/search/service/impl/ServerManage.java
+END
+AbstractProtistFileIndexService.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/solrsearch/!svn/ver/1/client/src/main/java/com/taobao/mc/search/service/impl/AbstractProtistFileIndexService.java
+END
+DefaultFileIndexService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/solrsearch/!svn/ver/1/client/src/main/java/com/taobao/mc/search/service/impl/DefaultFileIndexService.java
+END

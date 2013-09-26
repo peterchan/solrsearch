@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/js/scripts
+END
+dataimport.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/js/scripts/dataimport.js
+END
+query.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/js/scripts/query.js
+END
+cloud.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/js/scripts/cloud.js
+END
+index.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/js/scripts/index.js
+END
+replication.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/js/scripts/replication.js
+END
+java-properties.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/js/scripts/java-properties.js
+END
+cores.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/js/scripts/cores.js
+END
+file.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/js/scripts/file.js
+END
+app.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/js/scripts/app.js
+END
+schema-browser.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/js/scripts/schema-browser.js
+END
+plugins.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/js/scripts/plugins.js
+END
+analysis.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/js/scripts/analysis.js
+END
+logging.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/js/scripts/logging.js
+END
+dashboard.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/js/scripts/dashboard.js
+END
+threads.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/js/scripts/threads.js
+END
+ping.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/js/scripts/ping.js
+END

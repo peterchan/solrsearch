@@ -1,0 +1,81 @@
+package com.alibaba.icbu.solrsearch;
+
+import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
+
+import org.apache.solr.client.solrj.SolrServer;
+import org.apache.solr.client.solrj.impl.ConcurrentUpdateSolrServer;
+import org.apache.solr.client.solrj.impl.HttpSolrServer;
+
+import com.alibaba.icbu.solrsearch.constants.CoreNames;
+import com.alibaba.icbu.solrsearch.util.PropertiesMgr;
+
+/**
+ * <pre>
+ * desc: 
+ * created: 2013-2-17 下午03:41:31
+ * author:peterchan
+ * todo: 
+ * history:
+ * </pre>
+ */
+public class SolrServerFactory {
+
+    private static Map<CoreNames, HttpSolrServer>             httpServerCoreMap;
+    private static Map<CoreNames, ConcurrentUpdateSolrServer> ConcurrentUpdateSolrServerMap;
+
+    private static final String                               DEFAULT_CONFIG_NAME = "solrsearch.server.url";
+
+    private static final String                               HTTP_PATH_SEPARATOR = "/";
+
+    private static String                                     serverUrl           = PropertiesMgr.getProperty(DEFAULT_CONFIG_NAME);
+
+    static {
+
+        serverUrl = (serverUrl.lastIndexOf(HTTP_PATH_SEPARATOR) != -1 ? serverUrl : serverUrl + HTTP_PATH_SEPARATOR);
+
+        httpServerCoreMap = new ConcurrentHashMap<CoreNames, HttpSolrServer>();
+        ConcurrentUpdateSolrServerMap = new ConcurrentHashMap<CoreNames, ConcurrentUpdateSolrServer>();
+    }
+
+    /**
+     * 用于读
+     * 
+     * @param core
+     * @return
+     */
+    public static HttpSolrServer getHttpServer(CoreNames core) {
+        if (core == null) {
+            return null;
+        }
+
+        if (httpServerCoreMap.containsKey(core)) {
+            return httpServerCoreMap.get(core);
+        }
+        httpServerCoreMap.put(core, new HttpSolrServer(serverUrl + core.getCoreName()));
+        return httpServerCoreMap.get(core);
+    }
+
+    /**
+     * 用于写,实现中带有线程池
+     * 
+     * @param core
+     * @return
+     */
+    public static SolrServer getConCurrentServer(CoreNames core) {
+        if (core == null) {
+            return null;
+        }
+
+        if (ConcurrentUpdateSolrServerMap.containsKey(core)) {
+            return ConcurrentUpdateSolrServerMap.get(core);
+        }
+        ConcurrentUpdateSolrServerMap.put(core, new ConcurrentUpdateSolrServer(serverUrl + core.getCoreName(), 1000, 3));
+        return ConcurrentUpdateSolrServerMap.get(core);
+
+    }
+
+    public static void main(String args[]) {
+        new SolrServerFactory();
+    }
+}

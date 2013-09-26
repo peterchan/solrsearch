@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/solrsearch/!svn/ver/1/client/src/main/java/com/taobao/mc/search/param
+END
+WriteIndexResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/solrsearch/!svn/ver/1/client/src/main/java/com/taobao/mc/search/param/WriteIndexResult.java
+END
+QueryIndexResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/solrsearch/!svn/ver/1/client/src/main/java/com/taobao/mc/search/param/QueryIndexResult.java
+END
+IndexQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/solrsearch/!svn/ver/1/client/src/main/java/com/taobao/mc/search/param/IndexQuery.java
+END

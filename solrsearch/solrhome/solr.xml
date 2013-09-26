@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<solr persistent="true">
+  <cores defaultCoreName="core1" adminPath="/admin/cores" zkClientTimeout="${zkClientTimeout:30000}" hostPort="7001" hostContext="solr">
+    <core loadOnStartup="true" instanceDir="core1/" transient="false" name="core1"/>
+    <core schema="schema.xml" loadOnStartup="true" instanceDir="core2/" transient="false" name="core2" config="solrconfig.xml" dataDir="data"/>
+    <core schema="schema.xml" loadOnStartup="true" instanceDir="core3/" transient="false" name="core3" config="solrconfig.xml" dataDir="data"/>
+  </cores>
+</solr>

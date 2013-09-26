@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/WEB-INF/search-web
+END
+pipeline-exception.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/WEB-INF/search-web/pipeline-exception.xml
+END
+pipeline.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/WEB-INF/search-web/pipeline.xml
+END
+webx-component.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/WEB-INF/search-web/webx-component.xml
+END
+webx-root.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/WEB-INF/search-web/webx-root.xml
+END

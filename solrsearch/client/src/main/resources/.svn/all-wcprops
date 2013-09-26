@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/solrsearch/!svn/ver/1/client/src/main/resources
+END
+solrclient.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/solrsearch/!svn/ver/1/client/src/main/resources/solrclient.properties
+END
+default_search_server.properties
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/solrsearch/!svn/ver/1/client/src/main/resources/default_search_server.properties
+END

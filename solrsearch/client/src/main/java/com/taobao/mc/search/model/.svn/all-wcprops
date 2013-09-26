@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/solrsearch/!svn/ver/1/client/src/main/java/com/taobao/mc/search/model
+END
+FeatureList.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/solrsearch/!svn/ver/1/client/src/main/java/com/taobao/mc/search/model/FeatureList.java
+END
+BaseModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/solrsearch/!svn/ver/1/client/src/main/java/com/taobao/mc/search/model/BaseModel.java
+END
+Feature.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/solrsearch/!svn/ver/1/client/src/main/java/com/taobao/mc/search/model/Feature.java
+END
+FileInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/solrsearch/!svn/ver/1/client/src/main/java/com/taobao/mc/search/model/FileInfo.java
+END

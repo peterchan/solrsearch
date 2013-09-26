@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/tpl
+END
+plugins.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/tpl/plugins.html
+END
+schema-browser.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/tpl/schema-browser.html
+END
+analysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/tpl/analysis.html
+END
+dataimport.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/tpl/dataimport.html
+END
+query.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/tpl/query.html
+END
+cloud.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/tpl/cloud.html
+END
+logging.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/tpl/logging.html
+END
+dashboard.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/tpl/dashboard.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/tpl/index.html
+END
+replication.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/tpl/replication.html
+END
+threads.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/tpl/threads.html
+END
+cores.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/tpl/cores.html
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/solrsearch/!svn/ver/1/client/src/main/java/com/taobao/mc/search/job
+END
+ChenweiTestBuildIndexFromXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/solrsearch/!svn/ver/1/client/src/main/java/com/taobao/mc/search/job/ChenweiTestBuildIndexFromXml.java
+END
+FetchTagsJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/solrsearch/!svn/ver/1/client/src/main/java/com/taobao/mc/search/job/FetchTagsJob.java
+END
+ChenweiTestBuildIndexFromDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/solrsearch/!svn/ver/1/client/src/main/java/com/taobao/mc/search/job/ChenweiTestBuildIndexFromDB.java
+END
+TestIncrement.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/solrsearch/!svn/ver/1/client/src/main/java/com/taobao/mc/search/job/TestIncrement.java
+END
+BuildIndexThreadPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/solrsearch/!svn/ver/1/client/src/main/java/com/taobao/mc/search/job/BuildIndexThreadPool.java
+END
+FetchFullIndexDataJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/solrsearch/!svn/ver/1/client/src/main/java/com/taobao/mc/search/job/FetchFullIndexDataJob.java
+END
+BuildIndexFromFileTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/solrsearch/!svn/ver/1/client/src/main/java/com/taobao/mc/search/job/BuildIndexFromFileTask.java
+END

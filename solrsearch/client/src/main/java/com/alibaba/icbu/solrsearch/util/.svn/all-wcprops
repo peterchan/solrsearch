@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/solrsearch/!svn/ver/12/client/src/main/java/com/alibaba/icbu/solrsearch/util
+END
+PagerFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/solrsearch/!svn/ver/1/client/src/main/java/com/alibaba/icbu/solrsearch/util/PagerFacade.java
+END
+PropertiesMgr.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/solrsearch/!svn/ver/1/client/src/main/java/com/alibaba/icbu/solrsearch/util/PropertiesMgr.java
+END
+PaginationSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/solrsearch/!svn/ver/12/client/src/main/java/com/alibaba/icbu/solrsearch/util/PaginationSupport.java
+END

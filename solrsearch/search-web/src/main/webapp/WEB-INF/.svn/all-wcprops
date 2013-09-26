@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/solrsearch/!svn/ver/6/search-web/src/main/webapp/WEB-INF
+END
+webx-mediacodec.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/WEB-INF/webx-mediacodec.xml
+END
+form.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/WEB-INF/form.xml
+END
+webx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/WEB-INF/webx.xml
+END
+jboss-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/WEB-INF/jboss-web.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/solrsearch/!svn/ver/6/search-web/src/main/webapp/WEB-INF/web.xml
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/WEB-INF/log4j.xml
+END
+solr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/solrsearch/!svn/ver/1/search-web/src/main/webapp/WEB-INF/solr.xml
+END
